@@ -1,0 +1,1 @@
+BASE_URL = "https://beta.racetofreedom.com:8002"
